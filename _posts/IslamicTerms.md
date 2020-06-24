@@ -1,5 +1,5 @@
 ---
-title: 'First attestations of some Islamic terms'
+title: 'Earliest attestations of some Islamic terms'
 date: 2020-06-24
 permalink: /posts/IslamicTerms
 tags:
