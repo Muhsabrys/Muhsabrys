@@ -1,11 +1,11 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'First attestations of some Islamic terms'
+date: 2020-06-24
+permalink: /posts/IslamicTerms
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Historical linguistics
+  - Islamic
+  - English
 ---
 
 Earliest attestations of some Islamic terms in the English language. The graph was created using the OED Text Visualizer: https://oed-text-visualizer.oxfordlanguages.com/ 
