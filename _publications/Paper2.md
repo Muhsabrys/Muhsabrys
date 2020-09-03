@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper-2
 excerpt: 'This paper examines how Arab populations reacted to the COVID-19 pandemic on Twitter over twelve weeks since the outbreak.'
 date: 2020-08-14
-venue: 'Journal of Psycholinguistic Research'
+Publisher: 'Journal of Psycholinguistic Research'
 citation: "Essam, B.A., Abdo, M.S. How Do Arab Tweeters Perceive the COVID-19 Pandemic?. J Psycholinguist Res (2020). https://doi.org/10.1007/s10936-020-09715-6"
 
 ---
