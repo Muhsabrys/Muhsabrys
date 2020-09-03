@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper-1
 excerpt: 'This paper is about analyzing boipolar depression narratives in light of Appraisal Theory (2005).'
 date: 2019-05-01
-venue: 'The Egyptian Journal of Language Engineering'
+Publisher: 'The Egyptian Journal of Language Engineering'
 citation: "Abdo, M., Ali, A., Sarhan, N. (2019). Analyzing Judgment in Bipolar Depression Patients' Narratives Using Syntactic Patterns: A Corpus-Based Study. The Egyptian Journal of Language Engineering, 6(1), 1-11. doi: 10.21608/ejle.2019.59103"
 
 ---
