@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Muhammad Sabry Abdo, and I'm an MA candiadate in corpus (psycho)linguistics at Ain Shams University. My research interests include corpus, computational, psycho, socio, and cogntitve linguistics. I'm also interested in digital humanities and Big Data. 
+My name is Muhammad Sabry Abdo, and I'm an MA candiadate in corpus (psycho)linguistics at Ain Shams University. My research interests include corpus, computational, psycho, socio, and cognitive linguistics. I'm also interested in digital humanities and Big Data. 
 
 Professional Bio
 ======
