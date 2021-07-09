@@ -7,3 +7,6 @@ date: 2020-12-15
 ---
 
 Recommended citation: "Abdo, M. S. (2020). Analyzing Appraisal in Major and Bipolar Depression Patients’ Narratives in Mental Health Forums: A Corpus-based Study (Unpublished master's thesis). Faculty of Al-Alsun, Ain Shams University."
+
+You can access the thesis from this link: 
+http://193.227.1.161/eulc_v5/Libraries/Thesis/BrowseThesisPages.aspx?fn=ThesisPicBody&BibID=12720565 
